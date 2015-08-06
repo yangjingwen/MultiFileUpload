@@ -1,5 +1,5 @@
 # MultiFileUpload
-android upload one or multiple file.the demo include server(spring) demo and android upload demo
+android
 Android-MultiUploadFile 
 使用HttpClient实现单文件和批量文件上传
 <br/>
