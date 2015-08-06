@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="UploadServiceProject"
+  id="myeclipse.1423812903423"
+  context-root="/WebAppProject"
+  j2ee-spec="5.0"
+  archive="UploadServiceProject.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
